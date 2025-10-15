@@ -114,7 +114,7 @@ function exibirAreaPerimetroCircular(raio) {
     console.log(`area ${area1.toFixed(2)} da sala circular`);
     console.log(`perimetro ${perimetro2.toFixed(2)} da sala circular`);
 }
-let area1 = 10;
+let area1 = 12;
 let perimetro2 = 5;
 exibirAreaPerimetroCircular(area1, perimetro2);
 
