@@ -115,7 +115,7 @@ function exibirAreaPerimetroCircular(raio) {
     console.log(`perimetro ${perimetro2.toFixed(2)} da sala circular`);
 }
 let area1 = 12;
-let perimetro2 = 5;
+let perimetro2 = 10;
 exibirAreaPerimetroCircular(area1, perimetro2);
 
 // 6- Crie uma função que mostre na tela a tabuada de um número dado como parâmetro.
@@ -126,7 +126,7 @@ function exibirTabuada(n) {
     console.log(`${n} X ${i} = ${resul}`);
     }
 }
-let num = 7;
+let num = 5;
 exibirTabuada(num);
 
 
