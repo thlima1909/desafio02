@@ -92,7 +92,7 @@ console.log(numeroMaior);
 function exibirMult(n) {
     return n * n;
 }
-let numeroMultiplicado = exibirMult(5);
+let numeroMultiplicado = exibirMult(2);
 console.log(numeroMultiplicado);
 
 
