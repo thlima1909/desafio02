@@ -1,0 +1,4 @@
+{
+    "totvsLanguageServer.welcomePage": false,
+    "totvsLanguageServer.editor.linter.includes": "C:\\TOTVS\\include;C:\\TOTVS\\2310_TST\\Protheus_Data\\includes;C:\\TOTVS\\2310_TST\\Protheus_Data\\includes"
+}
